@@ -1,1 +1,1 @@
-Crud en node js con mysql, ejs y express,
+Crud en node js con mysql, ejs y express
